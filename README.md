@@ -2,15 +2,15 @@
 - Recent Computer Science graduate with a focus on Software Engineering
 - Currently working at Digital Nest as an Associate Software Developer
 - Languages I am proficient in: 
-  ![HTML5](https://shields.io)
-  ![CSS3](https://shields.io)
-  ![JavaScript](https://shields.io)
-  ![Python](https://shields.io)
-  ![Java](https://shields.io)
-  ![PostgreSQL](https://shields.io)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Take a look at some of my Projects 
--n[GroupMeet](https://github.com/krnagy-csu/CST-438-Fall-25-Project-3-Frontend) - A scheduling system for events and other activities. You can create. delete, and join events while also adding other users for easier collaboration. Tools: React Native, Springboot, Heroku Deployment
+- [GroupMeet](https://github.com/krnagy-csu/CST-438-Fall-25-Project-3-Frontend) - A scheduling system for events and other activities. You can create. delete, and join events while also adding other users for easier collaboration. Tools: React Native, Springboot, Heroku Deployment
 - [TheMovieWiki](https://github.com/krnagy-csu/Cst336Final) - An IMDb website built with Node.js, Express, and HTML, CSS. Known for movie information and searching through thousands of movies. Using the TMDb API.
 - [Ottertune](https://github.com/vincentmpalma/Ottertune) - A Spotify-based Python application used to search songs, like, delete and create playlists. Using Spotipy's API. Tools Used: Python, Flask, HTML, CSS
 <!--
